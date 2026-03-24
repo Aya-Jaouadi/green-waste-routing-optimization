@@ -1,3 +1,4 @@
+# KNN + 2-opt implementation for VRP
 import math
 import matplotlib.pyplot as plt
 from collections import deque
